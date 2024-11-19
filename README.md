@@ -1,6 +1,6 @@
 # AlphaSCADAconfigurator
 
-ХОЧУ ЕГО ПЕРЕПИСАТЬ НА RUBY... В ПРОЦЕССЕ...
+ХОЧУ ЕГО ПЕРЕПИСАТЬ НА RUBY... КАК ПОЯВИТСЯ СВОБОДНОЕ...
 
 Data converter from .xlsx to .omx. This program made for "Gazprom Automation"
 
